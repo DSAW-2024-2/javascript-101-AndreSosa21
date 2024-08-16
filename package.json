@@ -12,6 +12,8 @@
     "test": "jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "test": "^3.3.0"
+  }
 }
-
